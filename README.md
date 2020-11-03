@@ -2,6 +2,9 @@
 
 **This is our first game !**
 
+In this project we will present different methods for moving a game object in two dimensions by new components that we will create.
+Hope this project will help you and enjoy it
+
 ## Part A:
 
 Includes several components like: Oscillator, Rotator, HeartBeats and VisibilityByClick
